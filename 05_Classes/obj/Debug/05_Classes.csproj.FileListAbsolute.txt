@@ -7,7 +7,6 @@ C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\bin\Deb
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\obj\Debug\05_Classes.csprojAssemblyReference.cache
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\obj\Debug\05_Classes.csproj.CoreCompileInputs.cache
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\obj\Debug\05_Classes.csproj.CopyComplete
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\05_Classes\obj\Debug\05_Classes.dll

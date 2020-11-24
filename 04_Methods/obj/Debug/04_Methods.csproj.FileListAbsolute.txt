@@ -7,8 +7,8 @@ C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\bin\Deb
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\obj\Debug\04_Methods.csprojAssemblyReference.cache
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\obj\Debug\04_Methods.csproj.CoreCompileInputs.cache
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\obj\Debug\04_Methods.csproj.CopyComplete
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\obj\Debug\04_Methods.dll
 C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\obj\Debug\04_Methods.pdb
-C:\Users\farid\Desktop\ElevenFiftyProjects\CSharpFundementals\04_Methods\obj\Debug\04_Methods.csprojAssemblyReference.cache

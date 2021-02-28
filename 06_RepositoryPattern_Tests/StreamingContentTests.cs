@@ -19,5 +19,18 @@ namespace _06_RepositoryPattern_Tests
 
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void SetStarRating_ShouldSetCorrectDouble()
+        {
+            StreamingContent content = new StreamingContent();
+
+            content.StarRating = 5;
+
+            double expected = 5;
+            double actual = content.StarRating;
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

@@ -24,8 +24,6 @@ namespace _06_RepositoryPattern_Console
             bool keepRunning = true;
             while (keepRunning)
             {
-
-
                 // Display our options to the user
                 Console.WriteLine("Select a menu option:\n" +
                     "1. Create New Content\n" +
@@ -33,7 +31,7 @@ namespace _06_RepositoryPattern_Console
                     "3. View Content By Title\n" +
                     "4. Update Existing Content\n" +
                     "5. Delete Existing Content\n" +
-                    "6.Exit");
+                    "6. Exit");
 
                 // Get the user's input
                 string input = Console.ReadLine();

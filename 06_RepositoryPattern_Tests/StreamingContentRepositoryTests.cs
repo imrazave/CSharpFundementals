@@ -16,7 +16,6 @@ namespace _06_RepositoryPattern_Tests
             _repo = new StreamingContentRepository();
             _content = new StreamingContent("Rubber", "A car tyre tcome to life with the power to make people explode and goes on a murderous rampage through the Californian desert.", "R", 5.8, false, GenreType.Drama);
 
-
             _repo.AddContentToList(_content);
         }
 
